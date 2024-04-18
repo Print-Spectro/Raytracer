@@ -47,5 +47,8 @@
     <ClInclude Include="interval.h">
       <Filter>Headers</Filter>
     </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
